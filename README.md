@@ -2,7 +2,7 @@
 A chrome extension that adds poetry to your Facebook feed!
 
 ## Installation instructions
-For now, until it's publisehd to the Chrome store, you'll need to manually install:
+For now, until it's published to the Chrome store, you'll need to manually install:
 
 1. [Click here to download the extension file.](https://github.com/alecglassford/facebook-poetry/raw/master/toast-and-tea.crx)
 
