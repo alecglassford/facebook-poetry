@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "minimum_chrome_version": "30",
+  "name": "Facebook Poetry",
+  "short_name": "Facebook Poetry",
+  "version": "0.0.0.1",
+  "description": "Add some poetry to your Facebook news feed!",
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.facebook.com/*"],
+      "js": ["inject.js"]
+    }
+  ],
+
+  "web_accessible_resources": [
+    "main.js"
+  ],
+
+  "permissions": ["*://www.facebook.com/*"]
+}
