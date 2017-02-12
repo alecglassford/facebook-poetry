@@ -6,6 +6,6 @@ For now, until it's publisehd to the Chrome store, you'll need to manually insta
 
 1. [Click here to download the extension file.](https://github.com/alecglassford/facebook-poetry/raw/master/toast-and-tea.crx)
 
-2. [Go to the extension settings in Chrome.](chrome://extensions)
+2. Go to the extension settings in Chrome. (You can get ther through Settings or just navigate to "chrome://extensions" into your browser.)
 
 3. Drag the extension file ("toast-and-tea.crx") onto the extension settings page to install.
