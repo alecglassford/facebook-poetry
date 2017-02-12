@@ -1,0 +1,25 @@
+.card
+{
+  height: auto;
+  background-color: white;
+  margin-bottom: 10px;
+  letter-spacing: -0.24px;
+  color: #1d2129;
+  border-top-color: rgb(229, 230, 233);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-right-color: rgb(223, 224, 228);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-bottom-color: rgb(208, 209, 213);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(223, 224, 228);
+  border-left-style: solid;
+  border-left-width: 1px;
+}
+
+.heading 
+{
+
+}
